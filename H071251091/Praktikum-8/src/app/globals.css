@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Palet "senja": langit ungu tua yang turun ke jingga, kertas dingin sebagai latar baca. */
+@theme inline {
+  --color-malam: #261a3a;
+  --color-ungu: #4a3470;
+  --color-lembayung: #7a6aa8;
+  --color-senja: #f0a04b;
+  --color-mawar: #c2506b;
+  --color-kertas: #f3f1f8;
+  --color-garis: #ddd8ea;
+  --font-sans: var(--font-figtree);
+  --font-serif: var(--font-fraunces);
+}
